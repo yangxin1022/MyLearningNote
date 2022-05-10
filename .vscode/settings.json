@@ -1,3 +1,10 @@
 {
-    "jupyter.jupyterServerType": "local"
+    "jupyter.jupyterServerType": "local",
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#1073cf2d",
+        "editor.lineHighlightBorder": "#9fced11f",
+        "activityBar.background": "#382450",
+        "titleBar.activeBackground": "#4F3270",
+        "titleBar.activeForeground": "#FDFCFE"
+    }
 }
