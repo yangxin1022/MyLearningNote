@@ -1,1 +1,2 @@
-data/
+/pytorch-tutorial/data/
+*.vscode
