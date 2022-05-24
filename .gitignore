@@ -1,1 +1,2 @@
-.vscode/
+/pytorch-tutorial/data
+.DS_Store
