@@ -1,2 +1,5 @@
 /pytorch-tutorial/data
+/d2l-zh/data
+/d2l-zh/pytorch
+/d2l-zh/tensorflow
 .DS_Store
